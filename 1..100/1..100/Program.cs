@@ -21,7 +21,7 @@ namespace _1._._100
                     b = false;
                 }
                 else
-                    Console.WriteLine("Invalid number!");
+                    Console.WriteLine("Invalid number! Try again!");
                 
                 
             }
